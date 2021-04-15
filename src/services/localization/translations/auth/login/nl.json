@@ -1,0 +1,12 @@
+{
+    "loginBtn": "Log in",
+    "email": "E-Mail",
+    "password": "Wachtwoord",
+    "loginWithGoogle": "Log in met Google",
+    "registerInstead": "Geen account? Registreer hier",
+    "useExistingAccount": "Of gebruik een bestaand account",
+    "errors": {
+        "accountNotFound": "Ongeldige inloggegevens",
+        "unknown": "Er is iets fout gegaan. Probeer het later nog eens"
+    }
+}

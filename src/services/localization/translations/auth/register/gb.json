@@ -1,0 +1,15 @@
+{
+    "registerBtn": "Register",
+    "email": "E-Mail",
+    "password": "Password",
+    "passwordCheck": "Re-enter Password",
+    "registerWithGoogle": "Register with Google",
+    "loginInstead": "Already have an account? Login instead",
+    "useExistingAccount": "Or use an existing account",
+    "success": "✨ Successfully created your account!",
+    "errors": {
+        "passwordsDontMatch": "The passwords don't match",
+        "emailInUse": "This E-Mail is already in use",
+        "unknown": "An unknown error occurred. Please try again later"
+    }
+}

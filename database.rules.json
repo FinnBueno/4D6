@@ -1,0 +1,14 @@
+{
+  "rules": {
+    "global": {
+      ".read": true,
+      ".write": false
+    },
+    "users": {
+      "$uid": {
+        ".write": "$uid === auth.uid",
+        ".read": "$uid === auth.uid"
+      }
+    }
+  }
+}

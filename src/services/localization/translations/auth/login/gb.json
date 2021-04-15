@@ -1,0 +1,12 @@
+{
+    "loginBtn": "Login",
+    "email": "E-Mail",
+    "password": "Password",
+    "loginWithGoogle": "Login with Google",
+    "registerInstead": "No account? Register instead",
+    "useExistingAccount": "Or use an existing account",
+    "errors": {
+        "accountNotFound": "Account could not be found",
+        "unknown": "An unknown error occurred. Please try again later"
+    }
+}

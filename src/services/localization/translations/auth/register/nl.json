@@ -1,0 +1,15 @@
+{
+    "registerBtn": "Registreer",
+    "email": "E-Mail",
+    "password": "Wachtwoord",
+    "passwordCheck": "Herhaal wachtwoord",
+    "registerWithGoogle": "Registreer met Google",
+    "loginInstead": "Al een account? Log hier in",
+    "useExistingAccount": "Of gebruik een bestaand account",
+    "success": "✨ Je account is succesvol aangemaakt!",
+    "errors": {
+        "passwordsDontMatch": "De wachtwoorden zijn niet hetzelfde",
+        "emailInUse": "Deze e-mail is al in gebruik",
+        "unknown": "Er is iets fout gegaan. Probeer het later nog eens"
+    }
+}
